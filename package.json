@@ -1,0 +1,25 @@
+{
+  "name": "revinfo-frontpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp",
+    "serve": "gulp serve",
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/revinfrastruct/frontpage.git"
+  },
+  "author": "Johannes Axner <johannes.axner@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/revinfrastruct/frontpage/issues"
+  },
+  "homepage": "https://github.com/revinfrastruct/frontpage#readme",
+  "devDependencies": {
+    "bootstrap": "^4.0.0-alpha.5",
+    "gulp": "^3.9.1"
+  }
+}
