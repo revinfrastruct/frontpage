@@ -21,5 +21,9 @@
   "devDependencies": {
     "bootstrap": "^4.0.0-alpha.5",
     "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "browser-sync": "^2.18.2",
+    "gulp-sass": "^2.3.2"
   }
 }
